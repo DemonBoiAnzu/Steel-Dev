@@ -2,7 +2,7 @@
 
 I'm a solo-developer who mainly works in C# and Java. I mainly make games or Minecraft Plugins.
 
-Current project: Peril Realm
+Current project: Ehanced Survival
 
 Donation link: https://www.buymeacoffee.com/steelabraxas
 
