@@ -1,8 +1,20 @@
 ### I'm Steel! or, Abraxas!
 
-I'm a solo-developer who mainly works in C# and Java. I mainly make games or Minecraft Plugins.
+I'm a developer who prefers to work alone on things.
 
-Current project: ItemQualities
+I use:
+* C# (For games, as I prefer using Unity for game development)
+* Java
+* Kotlin (I prefer KT over Java)
+
+I dislike (my OPINION):
+* JavaScript (JS - absolutely disgusting.)
+* HTML (I just hate web development related things tbvh)
+* C/C++ (Just meh imo)
+
+I do know some other languages (kinda) but I prefer the ones listed above.
+
+You MAY commission me (though I will not work for free), but I will most likely deny if it's out of my comfort zone (mainly if it's working with something I dislike/don't know, or a language I dislike/don't know)
 
 Donation link: https://www.buymeacoffee.com/steelabraxas
 
