@@ -18,6 +18,15 @@ I dislike (my OPINION):
 
 I do know some other languages (kinda) but I prefer the ones listed above.
 
+I usually develop:
+* Minecraft Plugins (more often than others)
+* Minecraft Mods (very rarely)
+* Games (often)
+* Game Mods (sometimes)
+* Random Software (rarely)
+
+A lot of the time, my repositories are private, but some may be public (typically something I provide a public download for).
+
 You MAY commission me (though I will not work for free), but I will most likely deny if it's out of my comfort zone (mainly if it's working with something I dislike/don't know, or a language I dislike/don't know)
 
 [You can donate here](https://www.buymeacoffee.com/steelabraxas)
