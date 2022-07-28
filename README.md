@@ -1,6 +1,6 @@
 ### I'm Steel! or, Abraxas!
 
-I'm a developer who prefers to work alone on things.
+I'm a developer who prefers to work alone on things. Why? Working with others is kinda horrible imo, it does nothing but absolutely ruin my workflow and slow me wayyy down. Plus conflicting code styles is just a headache to work with.
 
 I use:
 * C# (For games, as I prefer using Unity for game development)
