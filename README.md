@@ -16,6 +16,6 @@ I do know some other languages (kinda) but I prefer the ones listed above.
 
 You MAY commission me (though I will not work for free), but I will most likely deny if it's out of my comfort zone (mainly if it's working with something I dislike/don't know, or a language I dislike/don't know)
 
-Donation link: https://www.buymeacoffee.com/steelabraxas
+[You can donate here](https://www.buymeacoffee.com/steelabraxas)
 
 ![Steel-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steel-Dev&show_icons=true&theme=dracula)
