@@ -17,9 +17,9 @@ I dislike (my OPINION):
 I do know some other languages (kinda) but I prefer the ones listed above.
 
 I usually develop:
-* Minecraft Plugins (more often than others)
+* Minecraft Plugins (more often than others - you can view my plugins [here](https://www.spigotmc.org/resources/authors/abraxas.222299/))
 * Minecraft Mods (very rarely)
-* Games (often)
+* Games (often - you can view my (horrible) games [here](https://steel-abraxas.itch.io))
 * Game Mods (sometimes)
 * Random Software (rarely)
 
